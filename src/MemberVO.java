@@ -6,6 +6,7 @@ public class MemberVO {
 	private String phoneNumber;
 	
 	
+	
 	public String getName() {
 		return name;
 	}
